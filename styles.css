@@ -29,3 +29,7 @@ body {
 .active {
     display: block ;
 }
+
+button {
+    background-color: rgb(50, 200, 50) ;
+}
